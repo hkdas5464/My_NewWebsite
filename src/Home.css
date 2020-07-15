@@ -1,0 +1,11 @@
+.row {margin: 0 0px;}
+
+/* Clear floats after the columns */
+
+.col{
+    float: left;
+      position: center;
+      margin-left: 5%;
+      margin-top: 2%;
+    
+}
